@@ -21,3 +21,10 @@ The log of my #100DaysOfCode challenge. Started on [October 08, Thusday, 2020].
 **Today's Progress:** Working on my portfolio page, and I think it's amazing.
 
 **Thoughts:** I learnt a lot about CSS positioning and layouts.
+
+
+### Day 03: October 11, 2020
+
+**Today's Progress:** I wrote some lines of CSS for my portfolio, there's a long way to go..
+
+**Thoughts:** Today I've spend 1-2hours coding.
