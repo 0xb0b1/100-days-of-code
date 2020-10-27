@@ -66,3 +66,16 @@ The log of my #100DaysOfCode challenge. Started on [October 08, Thusday, 2020].
 ## Day 11, October 19, 2020
 
 **Today's Progress:** started doing Jschallenger.
+
+## Day 12, October 20, 2020
+
+**Today's Progress:** Today wasn't as productive as it was suppose to be. I was reading about CSS layouts(grids).
+
+
+# really sick!
+
+
+## Day 13, October 26, 2020
+
+**Today's Progress:** My day was flawless productive. I finally learned about "DOM" and a lot of JavaScript, and I'm felling comfortable every single day.
+Everything is making sense now.
